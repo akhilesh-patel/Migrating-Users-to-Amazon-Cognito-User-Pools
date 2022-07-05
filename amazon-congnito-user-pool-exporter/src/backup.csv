@@ -1,0 +1,4 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,cognito:mfa_enabled,cognito:username
+,,,,,,,,,akhilpatel2121@gmail.com,true,,,,,+917619740745,false,,,false,akhil
+akhilesh patel,,,,,,,,,akhilesh@dreamsoft4u.in,true,,,,,+916378146633,false,jaipur,,false,test123
+aman sharma,,,,,,,,,akhilpatel2121@gmail.com,true,,,,,+917619740746,false,vasundhara,,false,test12
